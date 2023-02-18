@@ -1,0 +1,3 @@
+-m Main
+-lib haxeparser
+--interp
